@@ -1,4 +1,4 @@
-```markdown
+
 # WIZ.ai Take-Home Assignment: AI-Assisted Mini Lead Management System
 
 Backend service powered by FastAPI and SQLite to ingest, clean, search, deduplicate, and enrich marketing/sales leads. Built as a scoped-down system evaluating scalable hybrid AI workflows for CRM data resolution.
@@ -19,7 +19,7 @@ Running pair-wise comparisons using LLMs across ~2,000 raw lead entries requires
 Extracted marketing channels and contextual details from raw, unstructured free-text `Notes` using LLM Structured Outputs (JSON Schema) mapped strictly to defined channels (`Website`, `Event`, `LinkedIn`, `Organic Search`, `Referral`, `Manual/Sales`, `Other`). A deterministic keyword/regex fallback mechanism handles network or API quota errors seamlessly.
 
 ---
-
+```
 ## Project Structure
 
 ```text
