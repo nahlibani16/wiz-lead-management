@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Environment Variables / API Keys
+.env
+
+# Database File
+leads.db
+
+# Python Caches & Temp files
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
