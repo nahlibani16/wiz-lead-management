@@ -19,7 +19,6 @@ Running pair-wise comparisons using LLMs across ~2,000 raw lead entries requires
 Extracted marketing channels and contextual details from raw, unstructured free-text `Notes` using LLM Structured Outputs (JSON Schema) mapped strictly to defined channels (`Website`, `Event`, `LinkedIn`, `Organic Search`, `Referral`, `Manual/Sales`, `Other`). A deterministic keyword/regex fallback mechanism handles network or API quota errors seamlessly.
 
 ---
-```
 ## Project Structure
 
 ```text
