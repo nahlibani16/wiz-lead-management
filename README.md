@@ -43,6 +43,8 @@ wiz-lead-management/
 ├── .gitignore                  # Git exclusions (venv, .env, leads.db)
 ├── requirements.txt            # Project dependencies
 └── README.md                   # Assignment documentation
+```
+
 Setup & How to Run1. Environment SetupClone the repository and set up a Python virtual environment:Bash# Create virtual environment
 python -m venv venv
 
