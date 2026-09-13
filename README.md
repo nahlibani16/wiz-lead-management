@@ -135,5 +135,4 @@ pytest
 3. **Entity Resolution & Automated Merging:** Build a `POST /leads/merge` endpoint with field-level conflict resolution rules allowing sales agents to merge confirmed candidate duplicates.
 
 ```
-
-```
+Note for reviewer: Developed and tested on Windows environment using Python 3.12, FastAPI, and SQLite
